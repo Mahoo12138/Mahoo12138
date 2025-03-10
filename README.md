@@ -31,5 +31,3 @@
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"> 
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
