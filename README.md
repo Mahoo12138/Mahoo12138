@@ -1,7 +1,7 @@
 
 <img align="right" src="naganohara_mio.png" width="400px" alt="Kemomimi Chan" title="Kemomimi Chan" />
 
-终于有人来看咱了呢qwq
+终于有人来看咱了呢qwq 
 
 ### 关于我 / About me
 - 菜鸡前端开发，没啥特长，面向大模型编程
@@ -22,6 +22,7 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/Golang-%23316192.svg?logo=go&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/Vue-33a06f?logo=react&logoColor=white"> 
@@ -29,5 +30,4 @@
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"> 
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
+![](https://komarev.com/ghpvc/?username=Mahoo12138&color=blue)
