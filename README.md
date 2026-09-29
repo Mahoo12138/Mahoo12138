@@ -1,5 +1,5 @@
 
-<img align="right" src="naganohara_mio.png" width="400px" alt="Kemomimi Chan" title="Mio Chan" />
+<img align="right" src="desktop.png" width="400px" alt="Kemomimi Chan" title="Mio Chan" />
 
 终于有人来看咱了呢qwq 
 
