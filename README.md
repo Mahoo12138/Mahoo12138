@@ -1,5 +1,5 @@
 
-<img align="right" src="mahoo.png" width="600px" alt="Kemomimi Chan" title="Mahoo is here" />
+<img align="right" src="mahoo.png" width="520px" alt="Kemomimi Chan" title="Mahoo is here" />
 
 终于有人来看咱了呢qwq 
 
